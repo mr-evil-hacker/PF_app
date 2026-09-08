@@ -81,7 +81,7 @@ function App(){
 
    <section className="cta" id="contact">
     <div className="sectionLabel">05 / CONTACT</div><h2>Have an idea?<br/><em>Let's build it.</em></h2><p>I'm always interested in interesting projects, hackathons, collaborations and things worth learning.</p>
-    <a href="mailto:261310033@nitdelhi.ac.in className="primary big">Start a conversation ↗</a>
+    <a href="mailto:261310033@nitdelhi.ac.in" className="primary big">Start a conversation ↗</a>
    </section>
   </main>
   <footer><span>© 2026 RAJDEEP JHA</span><span>BUILT WITH REACT</span><span>DELHI, INDIA</span></footer>
